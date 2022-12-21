@@ -111,7 +111,7 @@
                         bindings = <
 &kp  INS      &kp  EXCL     &kp  AT       &kp  HASH     &kp  DOLLAR   &kp  PERCENT                                                                   &kp  CARET    &kp  AMPS     &kp  UP    &kp  LPAR     &kp  RPAR     &kp DEL
 &none         &kp  CARET     &kp  AMPS    &kp  ASTRK    &kp  LBKT     &kp  RBKT                                                                      &kp  HOME     &kp  LEFT    &kp  DOWN    &kp  RIGHT     &kp  RGUI     &kp END
-&trans        &kp  PIPE     &kp  UNDER    &kp  EQUAL     &kp  LBRC     &kp  RBRC     &kp  BSLH                                          &kp K_APP     &kp  C_MUTE   &kp  C_VOL_DN &kp  C_VOL_UP &kp  C_PP     &none         &kp RCTRL
+&trans        &kp  PIPE     &kp  UNDER    &kp  EQUAL     &kp  LBRC     &kp  RBRC     &kp  BSLH                                          &kp K_APP     &kp  C_MUTE   &kp  C_VOL_DN &kp  C_VOL_UP &kp  C_PP     &kp C_NEXT         &kp RCTRL
                                                         &trans        &trans        &trans       &mo  ADJ_L               &trans       &trans        &trans        &trans
                         >;
 			
